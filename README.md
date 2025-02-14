@@ -19,6 +19,7 @@
   - [ЛР5](#ЛР5)
   - [ЛР6](#ЛР6)
   - [ЛР7](#ЛР7)
+  - [ЛР8](#ЛР8)
 
 ## 🚀 Інструкція з запуску  
 1. **Клонуйте репозиторій**  
@@ -150,6 +151,54 @@ python client2.py
 Linux / MacOS
 ```bash
 python3 client2.py
+```
+
+### ЛР8
+2. **Перейдіть у відповідну директорію**
+```bash
+cd PICSN.LabWork/Lab8
+```
+3. **Встановіть залежності requirements.txt**
+
+Windows
+```bash
+pip install -r requirements.txt
+```
+Linux / MacOS
+```bash
+pip3 install -r requirements.txt
+```
+4. **Запустіть модуль main.py**
+
+Windows
+```bash
+python main.py
+```
+Linux / MacOS
+```bash
+python3 main.py
+```
+
+5. **Запустіть модуль server.py**
+
+Windows
+```bash
+python sever.py
+```
+Linux / MacOS
+```bash
+python3 server.py
+```
+
+6. **Запустіть модуль client.py**
+
+Windows
+```bash
+python client.py
+```
+Linux / MacOS
+```bash
+python3 client.py
 ```
 
 ## 📞 Контактна інформація
